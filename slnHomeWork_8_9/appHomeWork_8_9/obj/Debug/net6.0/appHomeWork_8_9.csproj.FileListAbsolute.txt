@@ -1,0 +1,15 @@
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\obj\Debug\net6.0\appHomeWork_8_9.csproj.AssemblyReference.cache
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\obj\Debug\net6.0\appHomeWork_8_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\obj\Debug\net6.0\appHomeWork_8_9.AssemblyInfoInputs.cache
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\obj\Debug\net6.0\appHomeWork_8_9.AssemblyInfo.cs
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\obj\Debug\net6.0\appHomeWork_8_9.csproj.CoreCompileInputs.cache
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\bin\Debug\net6.0\appHomeWork_8_9.exe
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\bin\Debug\net6.0\appHomeWork_8_9.deps.json
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\bin\Debug\net6.0\appHomeWork_8_9.runtimeconfig.json
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\bin\Debug\net6.0\appHomeWork_8_9.dll
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\bin\Debug\net6.0\appHomeWork_8_9.pdb
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\obj\Debug\net6.0\appHomeWork_8_9.dll
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\obj\Debug\net6.0\refint\appHomeWork_8_9.dll
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\obj\Debug\net6.0\appHomeWork_8_9.pdb
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\obj\Debug\net6.0\appHomeWork_8_9.genruntimeconfig.cache
+C:\WorkProgramm\HomeWork_8_9\slnHomeWork_8_9\appHomeWork_8_9\obj\Debug\net6.0\ref\appHomeWork_8_9.dll
